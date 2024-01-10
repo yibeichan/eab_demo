@@ -3,6 +3,6 @@ module.exports = {
   githubSrc: 'https://raw.githubusercontent.com/yibeichan/eab_demo/main/eab_demo/eab_demo_schema',
   banner: 'a demo for the eab meeting',
   startButton: 'Join',
-  assetsPublicPath: '/yibeichan/',
+  assetsPublicPath: '/eab_demo_schema/',
   backendServer: null
 };
