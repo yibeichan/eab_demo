@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/ReproNim/reproschema-protocol-cookiecutter",
+  "commit": "6729afaedc922dcf6e2cf568d198fc5da46e21d7",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "protocol_name": "eab_demo",
+      "__protocol_slug": "eab_demo",
+      "github_org": "yibeichan",
+      "protocol_description": "a demo for the eab meeting",
+      "number_of_activities": "5",
+      "full_name": "Yibei Chen",
+      "email": "yibei@mit.edu",
+      "__author": "Yibei Chen <yibei@mit.edu>",
+      "license": "MIT",
+      "_template": "https://github.com/ReproNim/reproschema-protocol-cookiecutter"
+    }
+  },
+  "directory": null
+}
